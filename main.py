@@ -1,4 +1,4 @@
-from gpiozero import MCP3008, DistanceSensor 
+from gpiozero import MCP3008, DistanceSensor
 from time import sleep 
 from datetime import datetime
 
