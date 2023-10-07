@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 data1 = {
-    "x": [i for 1 in range (1, 10)],
+    "x": [i for i in range (1, 10)],
     "y": [i * 1 for i in range(1, 10)]
 }
 data2 = {
